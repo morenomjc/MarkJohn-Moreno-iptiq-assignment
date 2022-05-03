@@ -1,4 +1,4 @@
-# Url Shortener [![Java CI with Maven](https://github.com/morenomjc/MarkJohn-Moreno-iptiq-assignment/actions/workflows/maven.yml/badge.svg)](https://github.com/morenomjc/MarkJohn-Moreno-iptiq-assignment/actions/workflows/maven.yml)
+# Url Shortener [![Java CI with Maven](https://github.com/morenomjc/MarkJohn-Moreno-iptiq-assignment/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/morenomjc/MarkJohn-Moreno-iptiq-assignment/actions/workflows/maven.yml)
 
 A simple url shortener with the following features
 - Supports custom SEO/random keyword to shorten URL
